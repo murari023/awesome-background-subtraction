@@ -1,7 +1,7 @@
 # awesome-background-subtraction
 A curated list of background subtraction papers and related applications resources
 ## Contents
- - Deep Learning based Papers
+ - [Deep Learning based Papers](https://github.com/murari023/awesome-background-subtraction#deep-learning-based-papers)
  - Non-Deep Learning based Papers
  - Review/survey papers
  - Datasets
