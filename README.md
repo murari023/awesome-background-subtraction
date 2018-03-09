@@ -3,6 +3,7 @@ A curated list of background subtraction papers and related applications resourc
 # Contents
  - Deep Learning based Papers
  - Non-Deep Learning based Papers
+ - Review/survey papers
  - Datasets
  - Awesome Researchers
  - Awesome Resources
@@ -32,10 +33,12 @@ A curated list of background subtraction papers and related applications resourc
 # 2016 Papers
 
 # Non-Deep Learning based Papers
-- Landmark Papers in Background Subtraction
+# Landmark Papers in Background Subtraction
 - 2015 - SuBSENSE - A Universal Change Detection Method With Local Adaptive Sensitivity
 - 2012 - PBAS - Background Segmentation with Feedback: The Pixel-Based Adaptive Segmenter
 - 2011 - ViBe: A Universal Background Subtraction Algorithm for Video Sequences
+- 2006 - A Texture-Based Method for Modeling the Background and Detecting Moving Objects
+- 1999 - Adaptive background mixture models for real-time tracking
 - 
 
 # 2018 Papers
@@ -44,3 +47,17 @@ A curated list of background subtraction papers and related applications resourc
 
 # 2017 Papers
 # 2016 Papers
+
+# Review/survey Papers
+- 2014 - Traditional and recent approaches in background modeling for foreground detection: An overview
+- 
+# Datasets
+- ChangeDetectionNet (CDNet)
+- SBI
+- Wallflower
+- 
+
+# Awesome Researchers
+- 
+# Awesome Resources
+- 
