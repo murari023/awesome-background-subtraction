@@ -7,6 +7,7 @@ A curated list of background subtraction papers and related applications resourc
  - [Datasets](https://github.com/murari023/awesome-background-subtraction#datasets)
  - [Awesome Researchers](https://github.com/murari023/awesome-background-subtraction#awesome-researchers)
  - [Awesome Resources](https://github.com/murari023/awesome-background-subtraction#awesome-resources)
+ - [Projects]()
 
 ## Deep Learning based Papers
 [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
@@ -73,3 +74,5 @@ A curated list of background subtraction papers and related applications resourc
 - [lrslibrary]( https://github.com/andrewssobral/lrslibrary)
 - [Background Subtraction Website by Thierry BOUWMANS](https://sites.google.com/site/backgroundsubtraction/overview)
 - 
+## Projects
+- [Background subtraction using deep learning method by [**Yiqi Yan**](https://saoyan.github.io/projects/)](https://github.com/SaoYan/bgsCNN)
