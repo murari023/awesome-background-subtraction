@@ -3,6 +3,9 @@ A curated list of background subtraction papers and related applications resourc
 # Contents
  - Deep Learning based Papers
  - Non-Deep Learning based Papers
+ - Datasets
+ - Awesome Researchers
+ - Awesome Resources
 
 # Deep Learning based Papers
 # 2018 Papers
