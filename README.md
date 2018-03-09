@@ -53,21 +53,21 @@ A curated list of background subtraction papers and related applications resourc
 - 
 ## Datasets
 - [Change Detection Net (CDNet)](http://changedetection.net/)
-- Scene Back Modelling (SBMNet) - http://scenebackgroundmodeling.net/
-- SBI - http://sbmi2015.na.icar.cnr.it/SBIdataset.html
-- SBM-RGBD - http://rgbd2017.na.icar.cnr.it/SBM-RGBDdataset.html
-- Wallflower - https://www.microsoft.com/en-us/research/people/jckrumm/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fjckrumm%2Fwallflower%2Ftestimages.htm
-- fish4knowledge - http://groups.inf.ed.ac.uk/f4k/
-- MARDCT - http://labrococo.dis.uniroma1.it/MAR/
-- MuHavi - http://velastin.dynu.com/MuHAVi-MAS/
+- [Scene Back Modelling (SBMNet)](http://scenebackgroundmodeling.net/)
+- [SBI](http://sbmi2015.na.icar.cnr.it/SBIdataset.html)
+- [SBM-RGBD](http://rgbd2017.na.icar.cnr.it/SBM-RGBDdataset.html)
+- [Wallflower](https://www.microsoft.com/en-us/research/people/jckrumm/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fjckrumm%2Fwallflower%2Ftestimages.htm)
+- [fish4knowledge](http://groups.inf.ed.ac.uk/f4k/)
+- [MARDCT](http://labrococo.dis.uniroma1.it/MAR/)
+- [MuHavi](http://velastin.dynu.com/MuHAVi-MAS/)
 
 
 ## Awesome Researchers
-- Thierry Bouwnmans - https://scholar.google.co.in/citations?user=e_gZ7MkAAAAJ&hl=en&oi=ao
-- Andrews Cordolino Sobral - https://scholar.google.co.in/citations?user=0Nm0uHcAAAAJ&hl=en
+- [Thierry Bouwnmans](https://scholar.google.co.in/citations?user=e_gZ7MkAAAAJ&hl=en&oi=ao)
+- [Andrews Cordolino Sobral](https://scholar.google.co.in/citations?user=0Nm0uHcAAAAJ&hl=en)
 - 
 ## Awesome Resources
-- bgslibrary - https://github.com/andrewssobral/bgslibrary
-- lrslibrary - https://github.com/andrewssobral/lrslibrary
-- Background Subtraction Website by Thierry BOUWMANS - https://sites.google.com/site/backgroundsubtraction/overview
+- [bgslibrary](https://github.com/andrewssobral/bgslibrary)
+- [lrslibrary]( https://github.com/andrewssobral/lrslibrary)
+- [Background Subtraction Website by Thierry BOUWMANS](https://sites.google.com/site/backgroundsubtraction/overview)
 - 
