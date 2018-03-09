@@ -1,6 +1,6 @@
 # awesome-background-subtraction
 A curated list of background subtraction papers and related applications resources
-# Contents
+## Contents
  - Deep Learning based Papers
  - Non-Deep Learning based Papers
  - Review/survey papers
@@ -8,8 +8,8 @@ A curated list of background subtraction papers and related applications resourc
  - Awesome Researchers
  - Awesome Resources
 
-# Deep Learning based Papers
-# 2018 Papers
+## Deep Learning based Papers
+### 2018 Papers
 - 2018 - A Foreground Inference Network for Video Surveillance Using Multi-View Receptive Field
 - 2018 - Change Detection by Training a Triplet Network for Motion Feature Extraction
 - 2018 - Learning deep structured network for weakly supervised change detection
@@ -18,7 +18,7 @@ A curated list of background subtraction papers and related applications resourc
 - 2018 - WiSARDrp for Change Detection in Video Sequences
 - 2018 - Foreground Segmentation Using a Triplet Convolutional Neural Network for Multiscale Feature Encoding
 
-# 2017 Papers
+### 2017 Papers
 - 2017 - A Deep Convolutional Neural Network for Background Subtraction
 - 2017 - Analytics of deep neural network in change detection
 - 2017 - Background modelling based on generative unet
@@ -30,10 +30,10 @@ A curated list of background subtraction papers and related applications resourc
 - 2017 - Joint Background Reconstruction and Foreground Segmentation via a Two-Stage Convolutional Neural Network
 - 2017 - Pixel-wise Deep Sequence Learning for Moving Object Detection
 
-# 2016 Papers
+### 2016 Papers
 
-# Non-Deep Learning based Papers
-# Landmark Papers in Background Subtraction
+## Non-Deep Learning based Papers
+### Landmark Papers in Background Subtraction
 - 2015 - SuBSENSE - A Universal Change Detection Method With Local Adaptive Sensitivity
 - 2012 - PBAS - Background Segmentation with Feedback: The Pixel-Based Adaptive Segmenter
 - 2011 - ViBe: A Universal Background Subtraction Algorithm for Video Sequences
@@ -41,17 +41,17 @@ A curated list of background subtraction papers and related applications resourc
 - 1999 - Adaptive background mixture models for real-time tracking
 - 
 
-# 2018 Papers
-2018 - A Background Modeling and Foreground Detection Algorithm Using Scaling Coefficients Defined With a Color Model Called Lightness-Red-Green-Blue
-2018 - M4CD A Robust Change Detection Method for Intelligent Visual Surveillance
+### 2018 Papers
+- 2018 - A Background Modeling and Foreground Detection Algorithm Using Scaling Coefficients Defined With a Color Model Called Lightness-Red-Green-Blue
+- 2018 - M4CD A Robust Change Detection Method for Intelligent Visual Surveillance
 
-# 2017 Papers
-# 2016 Papers
+### 2017 Papers
+### 2016 Papers
 
-# Review/survey Papers
+## Review/survey Papers
 - 2014 - Traditional and recent approaches in background modeling for foreground detection: An overview
 - 
-# Datasets
+## Datasets
 - Change Detection Net (CDNet) - http://changedetection.net/
 - Scene Back Modelling (SBMNet) - http://scenebackgroundmodeling.net/
 - SBI - http://sbmi2015.na.icar.cnr.it/SBIdataset.html
@@ -62,11 +62,11 @@ A curated list of background subtraction papers and related applications resourc
 - MuHavi - http://velastin.dynu.com/MuHAVi-MAS/
 
 
-# Awesome Researchers
+## Awesome Researchers
 - Thierry Bouwnmans - https://scholar.google.co.in/citations?user=e_gZ7MkAAAAJ&hl=en&oi=ao
 - Andrews Cordolino Sobral - https://scholar.google.co.in/citations?user=0Nm0uHcAAAAJ&hl=en
 - 
-# Awesome Resources
+## Awesome Resources
 - bgslibrary - https://github.com/andrewssobral/bgslibrary
 - lrslibrary - https://github.com/andrewssobral/lrslibrary
 - Background Subtraction Website by Thierry BOUWMANS - https://sites.google.com/site/backgroundsubtraction/overview
