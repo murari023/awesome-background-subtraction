@@ -52,9 +52,13 @@ A curated list of background subtraction papers and related applications resourc
 - 2014 - Traditional and recent approaches in background modeling for foreground detection: An overview
 - 
 # Datasets
-- ChangeDetectionNet (CDNet) - http://changedetection.net/
+- Change Detection Net (CDNet) - http://changedetection.net/
+- Scene Back Modelling (SBMNet) - http://scenebackgroundmodeling.net/
 - SBI - http://sbmi2015.na.icar.cnr.it/SBIdataset.html
+- SBM-RGBD - http://rgbd2017.na.icar.cnr.it/SBM-RGBDdataset.html
 - Wallflower - https://www.microsoft.com/en-us/research/people/jckrumm/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fjckrumm%2Fwallflower%2Ftestimages.htm
+- fish4knowledge - http://groups.inf.ed.ac.uk/f4k/
+- MARDCT - http://labrococo.dis.uniroma1.it/MAR/
 - 
 
 # Awesome Researchers
