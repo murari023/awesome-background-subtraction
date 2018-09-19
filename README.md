@@ -12,6 +12,12 @@ A curated list of background subtraction papers and related applications resourc
 
 ## Deep Learning based Papers
 [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
+
+### Fresh off the Conferences/Journals!!
+ - [2018 - Foreground Detection in Surveillance Video with Fully Convolutional Semantic Network](https://ieeexplore.ieee.org/abstract/document/8451816/)
+ - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603/)
+ - []
+
 ### 2018 Papers
 - [2018 - A Foreground Inference Network for Video Surveillance Using Multi-View Receptive Field](https://arxiv.org/abs/1801.06593)
 - [2018 - Change Detection by Training a Triplet Network for Motion Feature Extraction](http://ieeexplore.ieee.org/document/8263554/)
@@ -36,6 +42,7 @@ A curated list of background subtraction papers and related applications resourc
 - [2016 - Deep Background Subtraction with Scene-Specific Convolutional Neural Networks](http://ieeexplore.ieee.org/document/7502717/)
 
 ## GAN Based Papers
+ - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603/)
 ### 2018 Papers
 - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks]
 
@@ -52,8 +59,8 @@ A curated list of background subtraction papers and related applications resourc
 ### 2018 Papers
 - [2018 - A Background Modeling and Foreground Detection Algorithm Using Scaling Coefficients Defined With a Color Model Called Lightness-Red-Green-Blue](http://ieeexplore.ieee.org/document/8118166/)
 - [2018 - M4CD A Robust Change Detection Method for Intelligent Visual Surveillance](https://arxiv.org/abs/1802.04979)
-- [2018 - CANDID:Robust Change Dynamics and Deterministic Update Policy for Dynamic Background Subtraction]
-- [2018 - ANTIC: ANTithetic Isomeric Cluster Patterns for Medical Image Retrieval and Change Detection]
+- [2018 - CANDID:Robust Change Dynamics and Deterministic Update Policy for Dynamic Background Subtraction](https://arxiv.org/abs/1804.07008)
+- [2018 - ANTIC: ANTithetic Isomeric Cluster Patterns for Medical Image Retrieval and Change Detection](https://www.researchgate.net/publication/327503209_ANTIC_ANTithetic_Isomeric_Cluster_Patterns_for_Medical_Image_Retrieval_and_Change_Detection)
 
 ### 2017 Papers
 ### 2016 Papers
