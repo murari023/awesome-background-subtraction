@@ -69,7 +69,7 @@ A curated list of background subtraction papers and related applications resourc
 ### 2017 Papers
 
 ## Review/survey Papers
-- 2014 - Traditional and recent approaches in background modeling for foreground detection: An overview
+- [2014 - Traditional and recent approaches in background modeling for foreground detection: An overview](https://www.sciencedirect.com/science/article/pii/S1574013714000033)
 - 
 ## Datasets
 - [Change Detection Net (CDNet)](http://changedetection.net/)
