@@ -95,3 +95,6 @@ A curated list of background subtraction papers and related applications resourc
 - 
 ## Projects
 - [Background subtraction using deep learning method by [**Yiqi Yan**](https://saoyan.github.io/projects/)](https://github.com/SaoYan/bgsCNN)
+
+## Contributions are always welcomed!
+If you have any suggestions (missing papers, projects, source code, new papers, key researchers, dataset, etc.), please feel free to edit and pull a request. (or just let me know the title of paper)
