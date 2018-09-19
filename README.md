@@ -33,6 +33,7 @@ A curated list of background subtraction papers and related applications resourc
 -[2018-Learning Multi-scale Features for Foreground Segmentation](https://arxiv.org/abs/1808.01477)
 
 ### 2017 Papers
+- [2017-Foreground Segmentation for Anomaly Detection in Surveillance Videos Using Deep Residual Networks](https://github.com/lpcinelli/foreground-segmentation)
 - [2017 - Learning deep structured network for weakly supervised change detection](https://arxiv.org/abs/1606.02009)
 - [2017 - A Deep Convolutional Neural Network for Background Subtraction](https://arxiv.org/pdf/1702.01731)
 - [2017 - Analytics of deep neural network in change detection](http://ieeexplore.ieee.org/document/8078550/)
