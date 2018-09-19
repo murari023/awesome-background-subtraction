@@ -29,8 +29,8 @@ A curated list of background subtraction papers and related applications resourc
 - [2018 - A deep convolutional neural network for video sequence background subtraction](https://arxiv.org/pdf/1702.01731)
 - [2018 - Foreground segmentation using convolutional neural networks for multiscale feature encoding](https://www.sciencedirect.com/science/article/pii/S0167865518303702)
 - [2018-A 3D Atrous Convolutional Long Short-Term Memory Network for Background Subtraction](https://ieeexplore.ieee.org/abstract/document/8423055/similar)
--[2018-A novel framework for background subtraction and foreground detection](https://www.sciencedirect.com/science/article/pii/S0031320318302371)
--[2018-Learning Multi-scale Features for Foreground Segmentation](https://arxiv.org/abs/1808.01477)
+- [2018-A novel framework for background subtraction and foreground detection](https://www.sciencedirect.com/science/article/pii/S0031320318302371)
+- [2018-Learning Multi-scale Features for Foreground Segmentation](https://arxiv.org/abs/1808.01477)
 
 ### 2017 Papers
 - [2017-Foreground Segmentation for Anomaly Detection in Surveillance Videos Using Deep Residual Networks](https://github.com/lpcinelli/foreground-segmentation)
@@ -81,6 +81,7 @@ A curated list of background subtraction papers and related applications resourc
 - [fish4knowledge](http://groups.inf.ed.ac.uk/f4k/)
 - [MARDCT](http://labrococo.dis.uniroma1.it/MAR/)
 - [MuHavi](http://velastin.dynu.com/MuHAVi-MAS/)
+- [LASIESTA](https://www.sciencedirect.com/science/article/pii/S1077314216301138)
 
 
 ## Awesome Researchers
