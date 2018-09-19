@@ -16,7 +16,7 @@ A curated list of background subtraction papers and related applications resourc
 ### Fresh off the Conferences/Journals!!
  - [2018 - Foreground Detection in Surveillance Video with Fully Convolutional Semantic Network](https://ieeexplore.ieee.org/abstract/document/8451816/)
  - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603/)
- - [2018-Combining Background Subtraction Algorithms with Convolutional Neural Network](https://arxiv.org/abs/1807.02080)
+ - [2018 - Combining Background Subtraction Algorithms with Convolutional Neural Network](https://arxiv.org/abs/1807.02080)
 
 ### 2018 Papers
 - [2018 - A Foreground Inference Network for Video Surveillance Using Multi-View Receptive Field](https://arxiv.org/abs/1801.06593)
@@ -47,9 +47,8 @@ A curated list of background subtraction papers and related applications resourc
 - [2016 - Deep Background Subtraction with Scene-Specific Convolutional Neural Networks](http://ieeexplore.ieee.org/document/7502717/)
 
 ## GAN Based Papers
- - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603/)
 ### 2018 Papers
-- [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks]
+- [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603/)
 
 ## Non-Deep Learning based Papers
 [Landmark Papers](https://github.com/murari023/awesome-background-subtraction#landmark-papers-in-background-subtraction), [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers-1), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers-1), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers-1), [2015 Papers](https://github.com/murari023/awesome-background-subtraction#2015-papers)
