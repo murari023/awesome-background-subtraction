@@ -16,7 +16,7 @@ A curated list of background subtraction papers and related applications resourc
 ### Fresh off the Conferences/Journals!!
  - [2018 - Foreground Detection in Surveillance Video with Fully Convolutional Semantic Network](https://ieeexplore.ieee.org/abstract/document/8451816/)
  - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603/)
- - []
+ - [2018-Combining Background Subtraction Algorithms with Convolutional Neural Network](https://arxiv.org/abs/1807.02080)
 
 ### 2018 Papers
 - [2018 - A Foreground Inference Network for Video Surveillance Using Multi-View Receptive Field](https://arxiv.org/abs/1801.06593)
@@ -26,6 +26,11 @@ A curated list of background subtraction papers and related applications resourc
 - [2018 - WiSARDrp for Change Detection in Video Sequences](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2017-133.pdf)
 - [2018 - Foreground Segmentation Using a Triplet Convolutional Neural Network for Multiscale Feature Encoding](https://arxiv.org/abs/1801.02225), [**Source Code**](https://github.com/lim-anggun/FgSegNet)
 - [2018 - Deep Background Modeling Using Fully Convolutional Network](http://ieeexplore.ieee.org/document/8100709/)
+- [2018 - A deep convolutional neural network for video sequence background subtraction](https://arxiv.org/pdf/1702.01731)
+- [2018 - Foreground segmentation using convolutional neural networks for multiscale feature encoding](https://www.sciencedirect.com/science/article/pii/S0167865518303702)
+- [2018-A 3D Atrous Convolutional Long Short-Term Memory Network for Background Subtraction](https://ieeexplore.ieee.org/abstract/document/8423055/similar)
+-[2018-A novel framework for background subtraction and foreground detection](https://www.sciencedirect.com/science/article/pii/S0031320318302371)
+-[2018-Learning Multi-scale Features for Foreground Segmentation](https://arxiv.org/abs/1808.01477)
 
 ### 2017 Papers
 - [2017 - Learning deep structured network for weakly supervised change detection](https://arxiv.org/abs/1606.02009)
@@ -63,8 +68,6 @@ A curated list of background subtraction papers and related applications resourc
 - [2018 - ANTIC: ANTithetic Isomeric Cluster Patterns for Medical Image Retrieval and Change Detection](https://www.researchgate.net/publication/327503209_ANTIC_ANTithetic_Isomeric_Cluster_Patterns_for_Medical_Image_Retrieval_and_Change_Detection)
 
 ### 2017 Papers
-### 2016 Papers
-### 2015 Papers
 
 ## Review/survey Papers
 - 2014 - Traditional and recent approaches in background modeling for foreground detection: An overview
