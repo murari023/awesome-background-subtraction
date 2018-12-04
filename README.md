@@ -18,6 +18,7 @@ A curated list of background subtraction papers and related applications resourc
  - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603/)
  - [2018 - Combining Background Subtraction Algorithms with Convolutional Neural Network](https://arxiv.org/abs/1807.02080)
  - [2018 - MSFgNet: A Novel Compact End-to-End Deep Network for Moving Object Detection](https://ieeexplore.ieee.org/abstract/document/8546771)
+ - [2018 - Local Compact Binary Patterns for Background Subtraction in Complex Scenes](https://ieeexplore.ieee.org/abstract/document/8545062)
 
 ### 2018 Papers
 - [2018 - A Foreground Inference Network for Video Surveillance Using Multi-View Receptive Field](https://arxiv.org/abs/1801.06593)
