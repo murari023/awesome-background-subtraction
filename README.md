@@ -58,6 +58,7 @@ A curated list of background subtraction papers and related applications resourc
 
 ## GAN Based Papers
 ### 2018 Papers
+- [2019 - FgGAN A Cascaded Unpaired Learning for Background Estimation and Foreground Segmentation](https://ieeexplore.ieee.org/abstract/document/8659177)
 - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603/)
 
 ## Non-Deep Learning based Papers
