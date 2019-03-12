@@ -14,6 +14,10 @@ A curated list of background subtraction papers and related applications resourc
 [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
 
 ### Fresh off the Conferences/Journals!!
+ - [2019 - FgGAN A Cascaded Unpaired Learning for Background Estimation and Foreground Segmentation](https://ieeexplore.ieee.org/abstract/document/8659177)
+ - [2019 - Refining background subtraction using consistent motion detection in adverse weather](https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-28/issue-2/020501/Refining-background-subtraction-using-consistent-motion-detection-in-adverse-weather/10.1117/1.JEI.28.2.020501.short?SSO=1)
+ - [2019 - DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences](https://arxiv.org/pdf/1902.00820)
+ - [2018 - MsEDNet: Multi-Scale Deep Saliency Learning for Moving Object Detection](https://ieeexplore.ieee.org/iel7/8615119/8615655/08616285.pdf)
  - [2018 - MSFgNet: A Novel Compact End-to-End Deep Network for Moving Object Detection](https://ieeexplore.ieee.org/abstract/document/8546771)
  - [2018 - Local Compact Binary Patterns for Background Subtraction in Complex Scenes](https://ieeexplore.ieee.org/abstract/document/8545062)
  - [2018 - A Co-occurrence Background Model with Hypothesis on Degradation Modification for Object Detection in Strong Background Changes](https://ieeexplore.ieee.org/abstract/document/8546132)
@@ -71,10 +75,16 @@ A curated list of background subtraction papers and related applications resourc
 - [2018 - M4CD A Robust Change Detection Method for Intelligent Visual Surveillance](https://arxiv.org/abs/1802.04979)
 - [2018 - CANDID:Robust Change Dynamics and Deterministic Update Policy for Dynamic Background Subtraction](https://arxiv.org/abs/1804.07008)
 - [2018 - ANTIC: ANTithetic Isomeric Cluster Patterns for Medical Image Retrieval and Change Detection](https://www.researchgate.net/publication/327503209_ANTIC_ANTithetic_Isomeric_Cluster_Patterns_for_Medical_Image_Retrieval_and_Change_Detection)
-
+- [2018 - Multi-scale Recurrent Encoder-Decoder Network for Dense Temporal Classification](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545597.pdf)
+- [2018 - A New Foreground Segmentation Method for Video Analysis in Different Color Spaces](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545500.pdf) 
+- [2018 - Background subtraction via 3D convolutional neural networks](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545320.pdf)
+- [2018 - Local Compact Binary Patterns for Background Subtraction in Complex Scenes](https://ieeexplore.ieee.org/iel7/8527858/8545020/08545062.pdf)
+- [2018 - Unsupervised deep context prediction for background estimation and foreground segmentation](https://www.researchgate.net/profile/Maryam_Sultana/publication/328570879_Unsupervised_Deep_Context_Prediction_for_Background_Estimation_and_Foreground_Segmentation/links/5bfd469392851c78dfae933d/Unsupervised-Deep-Context-Prediction-for-Background-Estimation-and-Foreground-Segmentation.pdf)
 ### 2017 Papers
 
 ## Review/survey Papers
+- [2019 - Background Subtraction in Real Applications: Challenges, Current Models and Future Directions](https://arxiv.org/pdf/1901.03577)
+- [2018 - New trend in video foreground detection using deep learning](https://ieeexplore.ieee.org/iel7/8610060/8623819/08623825.pdf)
 - [2014 - Traditional and recent approaches in background modeling for foreground detection: An overview](https://www.sciencedirect.com/science/article/pii/S1574013714000033)
 ## Datasets
 - [Change Detection Net (CDNet)](http://changedetection.net/)
