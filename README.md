@@ -14,6 +14,8 @@ A curated list of background subtraction papers and related applications resourc
 [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
 
 ### Fresh off the Conferences/Journals!!
+ - [2019 - Moving object detection in complex scene using spatiotemporal structured-sparse RPCA ](https://ieeexplore.ieee.org/iel7/83/4358840/08485415)
+ - [2019 - Online and batch supervised background estimation via L1 regression](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659272)
  - [2019 - FgGAN A Cascaded Unpaired Learning for Background Estimation and Foreground Segmentation](https://ieeexplore.ieee.org/abstract/document/8659177)
  - [2019 - Refining background subtraction using consistent motion detection in adverse weather](https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-28/issue-2/020501/Refining-background-subtraction-using-consistent-motion-detection-in-adverse-weather/10.1117/1.JEI.28.2.020501.short?SSO=1)
  - [2019 - DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences](https://arxiv.org/pdf/1902.00820)
