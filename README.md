@@ -23,7 +23,7 @@ A curated list of background subtraction papers and related applications resourc
  - [Projects](https://github.com/murari023/awesome-background-subtraction/blob/master/README.md#projects)
 
 ## Deep Learning based Papers
-[2019 Papers](https://github.com/murari023/awesome-background-subtraction#2019 - Fresh off the Conferences/Journals!!) [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
+[2019 Papers](https://github.com/murari023/awesome-background-subtraction#2019---Fresh-off-the-Conferences/Journals!!) [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
 
 ## 2019 - Fresh off the Conferences/Journals!!
 ### Journals
