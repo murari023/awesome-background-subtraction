@@ -8,7 +8,7 @@ A curated list of background subtraction papers and related applications resourc
 - **IJCNN** - 15 Jan 2020, Glasgow, UK, Core Rating A
 - **MICCAI** - 18 Feb 2020, Lima, Peru, Core Rating A
 - **ICPR** - 2 March 2020, Milan Italy, Core Rating B
-- **ECCV** - 5 March 2020, Glasgow, UK, Core Rating A*
+- **ECCV** - 5 March 2020, Glasgow, UK, Core Rating A
 - **ACMMM** - 28 March 2020, Seattle, US, Core Rating A*
 - **ACCV** - ~ July 2020, Kyoto, Japan, Core Rating B
 
