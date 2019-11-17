@@ -23,9 +23,9 @@ A curated list of background subtraction papers and related applications resourc
  - [Projects](https://github.com/murari023/awesome-background-subtraction/blob/master/README.md#projects)
 
 ## Deep Learning based Papers
-[2019 Papers](https://github.com/murari023/awesome-background-subtraction#2019---Fresh-off-the-Conferences/Journals!!) [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
+[2019 Papers](https://github.com/murari023/awesome-background-subtraction#2019-papers), [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
 
-## 2019 - Fresh off the Conferences/Journals!!
+## 2019 Papers
 ### Journals
  - [2019 - 3DFR: A Swift 3D Feature Reductionist Framework for Scene Independent Change Detection](https://ieeexplore.ieee.org/document/8894435) (**2019 - IEEE Signal Processing Letters**) 
  - [2019 - vsEnDec: An improved image to image CNN for foreground localization](https://ieeexplore.ieee.org/abstract/document/8854330) (**2019 - IEEE Transactions on Intelligent Transportation Systems**) 
