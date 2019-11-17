@@ -14,8 +14,8 @@ A curated list of background subtraction papers and related applications resourc
 [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
 
 ## 2019 - Fresh off the Conferences/Journals!!
-### JournalS
- - [2019 - 3DFR: A Swift 3D Feature Reductionist Framework for Scene Independent Change Detection] (**2019 - IEEE Signal Processing Letters**) (https://ieeexplore.ieee.org/document/8894435)
+### Journals
+ - [2019 - 3DFR: A Swift 3D Feature Reductionist Framework for Scene Independent Change Detection](https://ieeexplore.ieee.org/document/8894435) (**2019 - IEEE Signal Processing Letters**) 
  - [2019 - vsEnDec: An improved image to image CNN for foreground localization] (**2019 - IEEE Transactions on Intelligent Transportation Systems**) (https://ieeexplore.ieee.org/abstract/document/8854330)
  - [2019 - Deep neural network concepts for background subtraction: A systematic review and comparative evaluation] (**2019 - Neural Networks, Elsevier**) (https://www.sciencedirect.com/science/article/pii/S0893608019301303)
  - [2019 - Panoramic Background Image Generation for PTZ Cameras] (**2019 - IEEE Transactions on Image Processing**) (https://ieeexplore.ieee.org/abstract/document/8625516)
