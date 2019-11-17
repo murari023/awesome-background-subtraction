@@ -14,14 +14,27 @@ A curated list of background subtraction papers and related applications resourc
 [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
 
 ### Fresh off the Conferences/Journals!!
+## JournalS
+ - [2019 - 3DFR: A Swift 3D Feature Reductionist Framework for Scene Independent Change Detection] (2019 - IEEE Signal Processing Letters) (https://ieeexplore.ieee.org/document/8894435)
+ - [2019 - vsEnDec: An improved image to image CNN for foreground localization] (2019 - IEEE Transactions on Intelligent Transportation Systems) (https://ieeexplore.ieee.org/abstract/document/8854330)
+ - [2019 - Deep neural network concepts for background subtraction: A systematic review and comparative evaluation] (2019 - Neural Networks, Elsevier) (https://www.sciencedirect.com/science/article/pii/S0893608019301303)
+ - [2019 - Panoramic Background Image Generation for PTZ Cameras] (2019 - IEEE Transactions on Image Processing) (https://ieeexplore.ieee.org/abstract/document/8625516)
+ - [2019 - Moving Object Detection Through Image Bit-Planes Representation Without Thresholding] (2019 - IEEE Transactions on Intelligent Transportation Systems) (https://ieeexplore.ieee.org/abstract/document/8694958)
+ - [2019 - Rapid and Robust Background Modeling Technique for Low-Cost Road Traffic Surveillance Systems] (2019 -  IEEE Transactions on Intelligent Transportation Systems) (https://ieeexplore.ieee.org/abstract/document/8725944)
+ - [2019 - Video Foreground Extraction Using Multi-View Receptive Field and Encoder–Decoder DCNN for Traffic and Surveillance Applications] (2019 - IEEE Transactions on Vehicular Technology) (https://ieeexplore.ieee.org/abstract/document/8809739)
+ - [2019 - Foreground Segmentation Using Adaptive 3 Phase Background Model] (2019 - IEEE Transactions on Intelligent Transportation Systems) (https://ieeexplore.ieee.org/abstract/document/8782599)
+ - [2019 - A 3D CNN-LSTM-Based Image-to-Image Foreground Segmentation] (2019 - IEEE Transactions on Intelligent Transportation Systems) (https://ieeexplore.ieee.org/abstract/document/8671459/)
+ - [2019 - Salient Features for Moving Object Detection in Adverse Weather Conditions during Night Time] (2019 - : IEEE Transactions on Circuits and Systems for Video Technology) (https://ieeexplore.ieee.org/abstract/document/8752366)
+ - [2019 - ]
+ 
+ 
  - [2019 - Illumination-Aware Multi-Task GANs for Foreground Segmentation](https://ieeexplore.ieee.org/document/8606933/)
  - [2019 - A 3D CNN-LSTM-Based Image-to-Image Foreground Segmentation](https://ieeexplore.ieee.org/document/8671459/)
  - [2019 - Moving object detection in complex scene using spatiotemporal structured-sparse RPCA ](https://ieeexplore.ieee.org/iel7/83/4358840/08485415)
  - [2019 - Online and batch supervised background estimation via L1 regression](https://ieeexplore.ieee.org/iel7/8642793/8658235/08659272)
- - [2019 - FgGAN A Cascaded Unpaired Learning for Background Estimation and Foreground Segmentation](https://ieeexplore.ieee.org/abstract/document/8659177)
+
  - [2019 - Refining background subtraction using consistent motion detection in adverse weather](https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-28/issue-2/020501/Refining-background-subtraction-using-consistent-motion-detection-in-adverse-weather/10.1117/1.JEI.28.2.020501.short?SSO=1)
  - [2019 - DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences](https://arxiv.org/pdf/1902.00820)
- - [2018 - MsEDNet: Multi-Scale Deep Saliency Learning for Moving Object Detection](https://ieeexplore.ieee.org/iel7/8615119/8615655/08616285.pdf)
  - [2018 - MSFgNet: A Novel Compact End-to-End Deep Network for Moving Object Detection](https://ieeexplore.ieee.org/abstract/document/8546771)
  - [2018 - Local Compact Binary Patterns for Background Subtraction in Complex Scenes](https://ieeexplore.ieee.org/abstract/document/8545062)
  - [2018 - A Co-occurrence Background Model with Hypothesis on Degradation Modification for Object Detection in Strong Background Changes](https://ieeexplore.ieee.org/abstract/document/8546132)
@@ -29,8 +42,20 @@ A curated list of background subtraction papers and related applications resourc
  - [2018 - Foreground Detection in Surveillance Video with Fully Convolutional Semantic Network](https://ieeexplore.ieee.org/abstract/document/8451816/)
  - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603/)
  - [2018 - Combining Background Subtraction Algorithms with Convolutional Neural Network](https://arxiv.org/abs/1807.02080)
-
+## Conferences
+ - [2019 - Unsupervised moving object detection via contextual information separation] (CVPR 2019) (https://arxiv.org/abs/1901.03360)
+ - [2019 - Motion Saliency Based Generative Adversarial Network for Underwater Moving Object Segmentation] (ICIP 2019) (https://ieeexplore.ieee.org/abstract/document/8803091)
+ - [2019 - FgGAN: A Cascaded Unpaired Learning for Background Estimation and Foreground Segmentation] (WACV 2019) (https://ieeexplore.ieee.org/abstract/document/8659177)
+ - [2019 - Robust Change Captioning] (CVPR-2019) (http://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Robust_Change_Captioning_ICCV_2019_paper.pdf)
+ - [2019 - Panoramic Video Separation with Online Grassmannian Robust Subspace Estimation] (ICCV 2019) (http://openaccess.thecvf.com/content_ICCVW_2019/papers/RSL-CV/Gilman_Panoramic_Video_Separation_with_Online_Grassmannian_Robust_Subspace_Estimation_ICCVW_2019_paper.pdf)
+ - [2019 - Rapid Technique to Eliminate Moving Shadows for Accurate Vehicle Detection] (WACV 2019) (https://ieeexplore.ieee.org/abstract/document/8659208/)
+ - [2019 - Online and batch supervised background estimation via L1 regression] (WACV 2019) (https://ieeexplore.ieee.org/abstract/document/8659272/)
+ - [2019 - TU-VDN: Tripura University Video Dataset at Night Time in Degraded Atmospheric Outdoor Conditions for Moving Object Detection] (ICIP 2019) (https://ieeexplore.ieee.org/abstract/document/8804411/)
+ - [2019 - Detection of Dynamic Objects in Videos Using LBSP and Fuzzy Gray Level Difference Histograms] (FUZZ-2019) (https://ieeexplore.ieee.org/abstract/document/8858967/)
+ - [2019 - ]
+ 
 ### 2018 Papers
+## Journals
 - [2018 - A Foreground Inference Network for Video Surveillance Using Multi-View Receptive Field](https://arxiv.org/abs/1801.06593)
 - [2018 - Change Detection by Training a Triplet Network for Motion Feature Extraction](http://ieeexplore.ieee.org/document/8263554/)
 - [2018 - Multiscale Fully Convolutional Network for Foreground Object Detection in Infrared Videos](http://ieeexplore.ieee.org/document/8288813/)
@@ -44,7 +69,8 @@ A curated list of background subtraction papers and related applications resourc
 - [2018 - A novel framework for background subtraction and foreground detection](https://www.sciencedirect.com/science/article/pii/S0031320318302371)
 - [2018 - Learning Multi-scale Features for Foreground Segmentation](https://arxiv.org/abs/1808.01477)
 - [2018 - MPNET: An End-to-End Deep Neural Network for Object Detection in Surveillance Video](https://ieeexplore.ieee.org/document/8365094/)
-
+## Conference
+ - [2018 - MsEDNet: Multi-Scale Deep Saliency Learning for Moving Object Detection] (SMC-2018)(https://ieeexplore.ieee.org/iel7/8615119/8615655/08616285.pdf)
 ### 2017 Papers
 - [2017 - End-to-end video background subtraction with 3D convolutional neural networks](https://link.springer.com/article/10.1007%2Fs11042-017-5460-9)
 - [2017 - Foreground Segmentation for Anomaly Detection in Surveillance Videos Using Deep Residual Networks](http://www.sbrt.org.br/sbrt2017/anais/1570360742.pdf), [**Source Code**](https://github.com/lpcinelli/foreground-segmentation)
