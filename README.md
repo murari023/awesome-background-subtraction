@@ -13,8 +13,8 @@ A curated list of background subtraction papers and related applications resourc
 ## Deep Learning based Papers
 [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
 
-### Fresh off the Conferences/Journals!!
-## JournalS
+## 2019 - Fresh off the Conferences/Journals!!
+### JournalS
  - [2019 - 3DFR: A Swift 3D Feature Reductionist Framework for Scene Independent Change Detection] (**2019 - IEEE Signal Processing Letters**) (https://ieeexplore.ieee.org/document/8894435)
  - [2019 - vsEnDec: An improved image to image CNN for foreground localization] (**2019 - IEEE Transactions on Intelligent Transportation Systems**) (https://ieeexplore.ieee.org/abstract/document/8854330)
  - [2019 - Deep neural network concepts for background subtraction: A systematic review and comparative evaluation] (**2019 - Neural Networks, Elsevier**) (https://www.sciencedirect.com/science/article/pii/S0893608019301303)
@@ -31,7 +31,7 @@ A curated list of background subtraction papers and related applications resourc
  - [2019 - DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences] (**2019 - Arxiv**) (https://arxiv.org/pdf/1902.00820)
   - [2019 - Combining Background Subtraction Algorithms with Convolutional Neural Network] (**2019 - Journal of Electronic Imaging**) (https://arxiv.org/abs/1807.02080)
 
-## Conferences
+### Conferences
  - [2019 - Unsupervised moving object detection via contextual information separation] (**CVPR 2019**) (https://arxiv.org/abs/1901.03360)
  - [2019 - Learning to See Moving Objects in the Dark] (**ICCV - 2019**) (http://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Learning_to_See_Moving_Objects_in_the_Dark_ICCV_2019_paper.pdf)
  - [2019 - Motion Saliency Based Generative Adversarial Network for Underwater Moving Object Segmentation] (**ICIP 2019**) (https://ieeexplore.ieee.org/abstract/document/8803091)
@@ -44,8 +44,8 @@ A curated list of background subtraction papers and related applications resourc
  - [2019 - Detection of Dynamic Objects in Videos Using LBSP and Fuzzy Gray Level Difference Histograms] (**FUZZ-2019**) (https://ieeexplore.ieee.org/abstract/document/8858967/)
  - [2019 - Moving Object Detection Under Discontinuous Change in Illumination Using Tensor Low-Rank and Invariant Sparse Decomposition] (**CVPR - 2019**) (http://openaccess.thecvf.com/content_CVPR_2019/papers/Shakeri_Moving_Object_Detection_Under_Discontinuous_Change_in_Illumination_Using_Tensor_CVPR_2019_paper.pdf)
  
-### 2018 Papers
-## Journals
+## 2018 Papers
+### Journals
 - [2018 - MSFgNet: A Novel Compact End-to-End Deep Network for Moving Object Detection](https://ieeexplore.ieee.org/abstract/document/8546771)
 - [2018 - A Foreground Inference Network for Video Surveillance Using Multi-View Receptive Field](https://arxiv.org/abs/1801.06593)
 - [2018 - Change Detection by Training a Triplet Network for Motion Feature Extraction](http://ieeexplore.ieee.org/document/8263554/)
@@ -60,7 +60,7 @@ A curated list of background subtraction papers and related applications resourc
 - [2018 - A novel framework for background subtraction and foreground detection](https://www.sciencedirect.com/science/article/pii/S0031320318302371)
 - [2018 - Learning Multi-scale Features for Foreground Segmentation](https://arxiv.org/abs/1808.01477)
 - [2018 - MPNET: An End-to-End Deep Neural Network for Object Detection in Surveillance Video](https://ieeexplore.ieee.org/document/8365094/)
-## Conference
+### Conference
  - [2018 - CANDID: Robust Change Dynamics and Deterministic Update Policy for Dynamic Background Subtraction] (**ICPR-2018**)(https://arxiv.org/abs/1804.07008)
  - [2018 - MsEDNet: Multi-Scale Deep Saliency Learning for Moving Object Detection] (**SMC-2018**)(https://ieeexplore.ieee.org/iel7/8615119/8615655/08616285.pdf)
  - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks] (**ICIP-2018**)(https://ieeexplore.ieee.org/abstract/document/8451603/)
@@ -69,7 +69,7 @@ A curated list of background subtraction papers and related applications resourc
  - [2018 - A Co-occurrence Background Model with Hypothesis on Degradation Modification for Object Detection in Strong Background Changes] (**ICPR-2018**) (https://ieeexplore.ieee.org/abstract/document/8546132)
   - [2018 - Background Subtraction via 3D Convolutional Neural Networks] (**ICPR-2018**)(https://ieeexplore.ieee.org/abstract/document/8545320)
   
-### 2017 Papers
+## 2017 Papers
 - [2017 - End-to-end video background subtraction with 3D convolutional neural networks](https://link.springer.com/article/10.1007%2Fs11042-017-5460-9)
 - [2017 - Foreground Segmentation for Anomaly Detection in Surveillance Videos Using Deep Residual Networks](http://www.sbrt.org.br/sbrt2017/anais/1570360742.pdf), [**Source Code**](https://github.com/lpcinelli/foreground-segmentation)
 - [2017 - Learning deep structured network for weakly supervised change detection](https://arxiv.org/abs/1606.02009)
@@ -82,11 +82,11 @@ A curated list of background subtraction papers and related applications resourc
 - [2017 - Joint Background Reconstruction and Foreground Segmentation via a Two-Stage Convolutional Neural Network](https://arxiv.org/abs/1707.07584)
 - [2017 - Pixel-wise Deep Sequence Learning for Moving Object Detection](http://ieeexplore.ieee.org/document/8097419/)
 
-### 2016 Papers
+## 2016 Papers
 - [2016 - Deep Background Subtraction with Scene-Specific Convolutional Neural Networks](http://ieeexplore.ieee.org/document/7502717/)
 
 ## GAN Based Papers
-### 2018 Papers
+## 2018 Papers
  - [2019 - Illumination-Aware Multi-Task GANs for Foreground Segmentation](https://ieeexplore.ieee.org/document/8606933/)
 - [2019 - FgGAN A Cascaded Unpaired Learning for Background Estimation and Foreground Segmentation](https://ieeexplore.ieee.org/abstract/document/8659177)
 - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603/)
@@ -100,7 +100,6 @@ A curated list of background subtraction papers and related applications resourc
 - [2006 - A Texture-Based Method for Modeling the Background and Detecting Moving Objects](http://ieeexplore.ieee.org/document/1597122/)
 - [1999 - Adaptive background mixture models for real-time tracking](http://www.ai.mit.edu/projects/vsam/Publications/stauffer_cvpr98_track.pdf)
 - 
-
 ### 2018 Papers
 - [2018 - A Background Modeling and Foreground Detection Algorithm Using Scaling Coefficients Defined With a Color Model Called Lightness-Red-Green-Blue](http://ieeexplore.ieee.org/document/8118166/)
 - [2018 - M4CD A Robust Change Detection Method for Intelligent Visual Surveillance](https://arxiv.org/abs/1802.04979)
