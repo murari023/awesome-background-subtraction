@@ -17,7 +17,11 @@ A curated list of background subtraction papers and related applications resourc
  - [Projects](https://github.com/murari023/awesome-background-subtraction/blob/master/README.md#projects)
 
 ## Deep Learning based Papers
-[2019 Papers](https://github.com/murari023/awesome-background-subtraction#2019-papers), [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
+[2020 Papers](https://github.com/murari023/awesome-background-subtraction#2020-papers), [2019 Papers](https://github.com/murari023/awesome-background-subtraction#2019-papers), [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
+
+## 2020 Papers
+ - [2020 - MotionRec: Unified Deep Framework for Moving Object Recognition](http://openaccess.thecvf.com/content_WACV_2020/html/Mandal_MotionRec_A_Unified_Deep_Framework_for_Moving_Object_Recognition_WACV_2020_paper.html) (**WACV 2020**) 
+  - [2020 - BSUV-Net: A Fully-Convolutional Neural Network for Background Subtraction of Unseen Videos](http://openaccess.thecvf.com/content_WACV_2020/papers/Tezcan_BSUV-Net_A_Fully-Convolutional_Neural_Network_for_Background_Subtraction_of_Unseen_WACV_2020_paper.pdf) (**WACV 2020**) 
 
 ## 2019 Papers
 ### Journals
@@ -38,6 +42,8 @@ A curated list of background subtraction papers and related applications resourc
   - [2019 - Combining Background Subtraction Algorithms with Convolutional Neural Network](https://arxiv.org/abs/1807.02080) (**2019 - Journal of Electronic Imaging**) 
 
 ### Conferences
+ - [2019 - An end-to-end deep learning approach for simultaneous background modeling and subtraction](https://bmvc2019.org/wp-content/uploads/papers/0984-paper.pdf) (**BMVC 2019**)
+ - [2019 - Simple background subtraction constraint for weakly supervised background subtraction network](https://ieeexplore.ieee.org/document/8909896) (**AVSS 2019**)
  - [2019 - Unsupervised moving object detection via contextual information separation](https://arxiv.org/abs/1901.03360) (**CVPR 2019**) 
  - [2019 - Learning to See Moving Objects in the Dark](http://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Learning_to_See_Moving_Objects_in_the_Dark_ICCV_2019_paper.pdf) (**ICCV - 2019**) 
  - [2019 - Motion Saliency Based Generative Adversarial Network for Underwater Moving Object Segmentation](https://ieeexplore.ieee.org/abstract/document/8803091) (**ICIP 2019**) 
@@ -66,6 +72,8 @@ A curated list of background subtraction papers and related applications resourc
 - [2018 - MPNET: An End-to-End Deep Neural Network for Object Detection in Surveillance Video](https://ieeexplore.ieee.org/document/8365094/) (**2018-IEEE Access**)
 ### Conference
  - [2018 - CANDID: Robust Change Dynamics and Deterministic Update Policy for Dynamic Background Subtraction](https://arxiv.org/abs/1804.07008) (**ICPR-2018**)
+ - [2018 - Learning Background Subtraction by Video Synthesis and Multi-scale Recurrent Networks](https://link.springer.com/chapter/10.1007/978-3-030-20876-9_23) (**ACCV-2018**)
+ - [2018 - Multi-scale Recurrent Encoder-Decoder Network for Dense Temporal Classification](https://ieeexplore.ieee.org/document/8545597) (**ICPR-2018**)
  - [2018 - MsEDNet: Multi-Scale Deep Saliency Learning for Moving Object Detection](https://ieeexplore.ieee.org/iel7/8615119/8615655/08616285.pdf) (**SMC-2018**)
  - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603/) (**ICIP-2018**)
  - [2018 - Foreground Detection in Surveillance Video with Fully Convolutional Semantic Network](https://ieeexplore.ieee.org/abstract/document/8451816/) (**ICIP-2018**)
