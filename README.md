@@ -2,15 +2,9 @@
 A curated list of background subtraction papers and related applications resources
 
 ## Upcoming Deadlines for Conference/Workshops/Special Issues
-- **ICMR** - 11 Jan 2020, Dublin, Ireland, Core Rating B
-- **IJCAI** - 15 Jan (Abstract) + 21 Jan (Full Paper) 2020, Yokohama, Japan, Core Rating A*
-- **ICIP** - 31 January, Dubai, Core Rating B
-- **IJCNN** - 15 Jan 2020, Glasgow, UK, Core Rating A
-- **MICCAI** - 18 Feb 2020, Lima, Peru, Core Rating A
-- **ICPR** - 2 March 2020, Milan Italy, Core Rating B
-- **ECCV** - 5 March 2020, Glasgow, UK, Core Rating A
-- **ACMMM** - 28 March 2020, Seattle, US, Core Rating A*
-- **ACCV** - ~ July 2020, Kyoto, Japan, Core Rating B
+- **ACMMM** - 25 April 2020, Seattle, US
+- **BMVC** - 30 April 2020, UK
+- **ACCV** - 8 July 2020, Kyoto, Japan
 
 ## Contents
  - [Deep Learning based Papers](https://github.com/murari023/awesome-background-subtraction#deep-learning-based-papers)
