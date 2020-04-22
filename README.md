@@ -2,8 +2,8 @@
 A curated list of background subtraction papers and related applications resources
 
 ## Upcoming Deadlines for Conference/Workshops/Special Issues
-- **ACMMM** - 25 April 2020, Seattle, US
-- **BMVC** - 30 April 2020, UK
+- **ACMMM** - 24 May 2020, Seattle, US (virtual conference)
+- **BMVC** - 30 April 2020, UK (virtual conference)
 - **ACCV** - 8 July 2020, Kyoto, Japan
 
 ## Contents
