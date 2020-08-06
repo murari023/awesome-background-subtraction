@@ -2,9 +2,9 @@
 A curated list of background subtraction papers and related applications resources
 
 ## Upcoming Deadlines for Conference/Workshops/Special Issues
-- **ACCV** - 8 July 2020, Kyoto, Japan
 - **WACV** - Second Round Deadline - 26 August 2020, Hawaii, US
 - **AAAI** - 9 September 2020, Vancouver, Canada
+- **ICASSP** - 19 October 2020, Toronto, Canada
 
 ## Contents
  - [Deep Learning based Papers](https://github.com/murari023/awesome-background-subtraction#deep-learning-based-papers)
