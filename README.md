@@ -2,8 +2,6 @@
 A curated list of background subtraction papers and related applications resources
 
 ## Upcoming Deadlines for Conference/Workshops/Special Issues
-- **WACV** - Second Round Deadline - 29 September 2020, Hawaii, US
-- **AAAI** - 9 September 2020, Vancouver, Canada
 - **ICASSP** - 19 October 2020, Toronto, Canada
 
 ## Contents
