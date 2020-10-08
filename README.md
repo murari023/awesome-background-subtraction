@@ -19,6 +19,7 @@ A curated list of background subtraction papers and related applications resourc
 
 ## 2020 Papers
  - [2020 - MOR-UAV: A Benchmark Dataset and Baselines for Moving Object Recognition in UAV Videos](https://arxiv.org/abs/2008.01699) (**ACM-MM 2020**)
+ - [2020 - An End-to-End Edge Aggregation Network for Moving Object Segmentation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Patil_An_End-to-End_Edge_Aggregation_Network_for_Moving_Object_Segmentation_CVPR_2020_paper.pdf) (**CVPR-2020**)
  - [2020 - MotionRec: Unified Deep Framework for Moving Object Recognition](http://openaccess.thecvf.com/content_WACV_2020/html/Mandal_MotionRec_A_Unified_Deep_Framework_for_Moving_Object_Recognition_WACV_2020_paper.html) (**WACV 2020**) [**Source Code**](https://github.com/lav-kush/MotionRec) 
   - [2020 - BSUV-Net: A Fully-Convolutional Neural Network for Background Subtraction of Unseen Videos](http://openaccess.thecvf.com/content_WACV_2020/papers/Tezcan_BSUV-Net_A_Fully-Convolutional_Neural_Network_for_Background_Subtraction_of_Unseen_WACV_2020_paper.pdf) (**WACV 2020**) 
 
