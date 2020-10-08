@@ -3,6 +3,7 @@ A curated list of background subtraction papers and related applications resourc
 
 ## Upcoming Deadlines for Conference/Workshops/Special Issues
 - **ICASSP** - 19 October 2020, Toronto, Canada
+- **CVPR** - 16 November 2020, Nashville, Tennessee
 
 ## Contents
  - [Deep Learning based Papers](https://github.com/murari023/awesome-background-subtraction#deep-learning-based-papers)
