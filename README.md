@@ -2,8 +2,6 @@
 A curated list of background subtraction papers and related applications resources
 
 ## Upcoming Deadlines for Conference/Workshops/Special Issues
-- **ICASSP** - 19 October 2020, Toronto, Canada
-- **CVPR** - 16 November 2020, Nashville, Tennessee
 - **ICCV** - 17 March 2021, Montreal, Canada
 
 ## Contents
