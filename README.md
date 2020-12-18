@@ -2,7 +2,14 @@
 A curated list of background subtraction papers and related applications resources
 
 ## Upcoming Deadlines for Computer Vision Conferences
+
+- **ICIP** - 13 January 2021, Alaska, USA
+- **IJCNN** - 15 January 2021, Shenjhen, China
+- **ICCV** - 19 February 2021, Strasbourg, France
 - **ICCV** - 17 March 2021, Montreal, Canada
+- **ACM MM** - 3 April 2021, Chengdu, China
+- **FG** - 15 April 2021, Jodhpur, India
+- **CIKM** - TBA, Queensland, Australia
 
 ## Contents
  - [Deep Learning based Papers](https://github.com/murari023/awesome-background-subtraction#deep-learning-based-papers)
