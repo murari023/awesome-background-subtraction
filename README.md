@@ -1,7 +1,7 @@
 # awesome-background-subtraction
 A curated list of background subtraction papers and related applications resources
 
-## Upcoming Deadlines for Conference/Workshops/Special Issues
+## Upcoming Deadlines for Computer Vision Conferences
 - **ICCV** - 17 March 2021, Montreal, Canada
 
 ## Contents
