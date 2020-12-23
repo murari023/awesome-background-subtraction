@@ -10,6 +10,7 @@ A curated list of background subtraction papers and related applications resourc
 - **ACM MM** - 3 April 2021, Chengdu, China
 - **FG** - 15 April 2021, Jodhpur, India
 - **CIKM** - TBA, Queensland, Australia
+- **WACV** - TBA, Usually around June
 
 ## Contents
  - [Deep Learning based Papers](https://github.com/murari023/awesome-background-subtraction#deep-learning-based-papers)
