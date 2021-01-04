@@ -154,11 +154,14 @@ A curated list of background subtraction papers and related applications resourc
 
 
 ## Awesome Researchers
-- [Thierry Bouwnmans](https://scholar.google.co.in/citations?user=e_gZ7MkAAAAJ&hl=en&oi=ao)
-- [Andrews Cordolino Sobral](https://scholar.google.co.in/citations?user=0Nm0uHcAAAAJ&hl=en)
+- [Thierry Bouwnmans](https://sites.google.com/site/thierrybouwmans/)
+- [Murari Mandal](https://visionintelligence.github.io/Murari.html)
+- [Prashant W. Patil](https://iitrpr.cvpr.in/8/my_blog/)
+- [Sajid Javed](https://sites.google.com/view/sajidjaved/home)
 - 
 ## Awesome Resources
 - [bgslibrary](https://github.com/andrewssobral/bgslibrary)
+- [MotionRec](https://github.com/lav-kush/MotionRec)
 - [lrslibrary]( https://github.com/andrewssobral/lrslibrary)
 - [Background Subtraction Website by Thierry BOUWMANS](https://sites.google.com/site/backgroundsubtraction/overview)
 - 
