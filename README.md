@@ -26,12 +26,14 @@ A curated list of background subtraction papers and related applications resourc
 [2020 Papers](https://github.com/murari023/awesome-background-subtraction#2020-papers), [2019 Papers](https://github.com/murari023/awesome-background-subtraction#2019-papers), [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
 
 ## 2020 Papers
+ - [2020 - Graph Moving Object Segmentation](https://ieeexplore.ieee.org/document/9288631) (**2020 - IEEE Transactions on Pattern Analysis and Machine Intelligence**) [**Source Code**](https://github.com/jhonygiraldo/GraphMOS)
  - [2020 - Scene Independency Matters: An Empirical Study of Scene Dependent and Scene Independent Evaluation for CNN-Based Change Detection](https://ieeexplore.ieee.org/document/9238403) (**2020 - IEEE Transactions on Intelligent Transportation Systems**)
  - [2020 - 3DCD: A Scene Independent End-to-End Spatiotemporal Feature Learning Framework for Change Detection in Unseen Videos](https://ieeexplore.ieee.org/document/9263106)(**2020 - IEEE Transactions on Image Processing**)
  - [2020 - MOR-UAV: A Benchmark Dataset and Baselines for Moving Object Recognition in UAV Videos](https://dl.acm.org/doi/abs/10.1145/3394171.3413934) (**ACM-MM 2020**)
  - [2020 - An End-to-End Edge Aggregation Network for Moving Object Segmentation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Patil_An_End-to-End_Edge_Aggregation_Network_for_Moving_Object_Segmentation_CVPR_2020_paper.pdf) (**CVPR-2020**)
  - [2020 - MotionRec: Unified Deep Framework for Moving Object Recognition](http://openaccess.thecvf.com/content_WACV_2020/html/Mandal_MotionRec_A_Unified_Deep_Framework_for_Moving_Object_Recognition_WACV_2020_paper.html) (**WACV 2020**) [**Source Code**](https://github.com/lav-kush/MotionRec) 
-  - [2020 - BSUV-Net: A Fully-Convolutional Neural Network for Background Subtraction of Unseen Videos](http://openaccess.thecvf.com/content_WACV_2020/papers/Tezcan_BSUV-Net_A_Fully-Convolutional_Neural_Network_for_Background_Subtraction_of_Unseen_WACV_2020_paper.pdf) (**WACV 2020**) 
+  - [2020 - BSUV-Net: A Fully-Convolutional Neural Network for Background Subtraction of Unseen Videos](http://openaccess.thecvf.com/content_WACV_2020/papers/Tezcan_BSUV-Net_A_Fully-Convolutional_Neural_Network_for_Background_Subtraction_of_Unseen_WACV_2020_paper.pdf) (**WACV 2020**)
+  - [2020 - Semi-supervised Background Subtraction of Unseen Videos: Minimization of the Total Variation of Graph Signals](https://ieeexplore.ieee.org/document/9190887) (**ICIP 2020**)
 
 ## 2019 Papers
 ### Journals
