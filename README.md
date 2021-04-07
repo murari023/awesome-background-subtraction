@@ -3,15 +3,13 @@ A curated list of background subtraction papers and related applications resourc
 
 ## Upcoming Deadlines for Computer Vision Conferences
 
-- **ICIP** - 13 January 2021, Alaska, USA
-- **IJCNN** - 15 January 2021, Shenjhen, China
-- **MICCAI** - 19 February 2021, Strasbourg, France
-- **ICCV** - 17 March 2021, Montreal, Canada
-- **ACM MM** - 3 April 2021, Chengdu, China
+- **ACM MM** - 17 April 2021, Chengdu, China
 - **FG** - 15 April 2021, Jodhpur, India
 - **CIKM** - TBA, Queensland, Australia
 - **WACV** - TBA, Usually around June
-
+- **3DV** - 30 July 2021
+- **SIGSPATIAL** - 18 May 2021
+  
 ## Contents
  - [Deep Learning based Papers](https://github.com/murari023/awesome-background-subtraction#deep-learning-based-papers)
  - [GAN Based Papers](https://github.com/murari023/awesome-background-subtraction/blob/master/README.md#gan-based-papers)
@@ -24,6 +22,13 @@ A curated list of background subtraction papers and related applications resourc
 
 ## Deep Learning based Papers
 [2020 Papers](https://github.com/murari023/awesome-background-subtraction#2020-papers), [2019 Papers](https://github.com/murari023/awesome-background-subtraction#2019-papers), [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
+
+## 2021 Papers
+- [2021 - BSUV-Net 2.0: Spatio-Temporal Data Augmentations for Video-Agnostic Supervised Background Subtraction](https://arxiv.org/abs/2101.09585) (**IEEE Access**)
+- [2021 - Multi-Frame Recurrent Adversarial Network for Moving Object Segmentation](https://openaccess.thecvf.com/content/WACV2021/papers/Patil_Multi-Frame_Recurrent_Adversarial_Network_for_Moving_Object_Segmentation_WACV_2021_paper.pdf) (**CVPR-2021**)
+- [2021 - Deep Adversarial Network for Scene Independent Moving Object Segmentation](https://ieeexplore.ieee.org/abstract/document/9353975) (**IEEE Signal Processing Letters**)
+- [2021 - End-to-End Recurrent Generative Adversarial Network for Traffic and Surveillance Applications](https://ieeexplore.ieee.org/abstract/document/9288640) (**IEEE Transactions on Vehicular Technology**)
+
 
 ## 2020 Papers
  - [2020 - Graph Moving Object Segmentation](https://ieeexplore.ieee.org/document/9288631) (**2020 - IEEE Transactions on Pattern Analysis and Machine Intelligence**) [**Source Code**](https://github.com/jhonygiraldo/GraphMOS)
