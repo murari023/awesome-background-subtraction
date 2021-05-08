@@ -3,8 +3,6 @@ A curated list of background subtraction papers and related applications resourc
 
 ## Upcoming Deadlines for Computer Vision Conferences
 
-- **ACM MM** - 17 April 2021, Chengdu, China
-- **FG** - 15 April 2021, Jodhpur, India
 - **CIKM** - TBA, Queensland, Australia
 - **WACV** - TBA, Usually around June
 - **3DV** - 30 July 2021
@@ -21,9 +19,10 @@ A curated list of background subtraction papers and related applications resourc
  - [Projects](https://github.com/murari023/awesome-background-subtraction/blob/master/README.md#projects)
 
 ## Deep Learning based Papers
-[2020 Papers](https://github.com/murari023/awesome-background-subtraction#2020-papers), [2019 Papers](https://github.com/murari023/awesome-background-subtraction#2019-papers), [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
+[2021 Papers](https://github.com/murari023/awesome-background-subtraction#2021-papers), [2020 Papers](https://github.com/murari023/awesome-background-subtraction#2020-papers), [2019 Papers](https://github.com/murari023/awesome-background-subtraction#2019-papers), [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers)
 
 ## 2021 Papers
+- [2021 - An Empirical Review of Deep Learning Frameworks for Change Detection: Model Design, Experimental Frameworks, Challenges and Research Needs](https://arxiv.org/abs/2105.01342) (**IEEE Transactions on Intelligent Transportation System**)
 - [2021 - BSUV-Net 2.0: Spatio-Temporal Data Augmentations for Video-Agnostic Supervised Background Subtraction](https://arxiv.org/abs/2101.09585) (**IEEE Access**)
 - [2021 - Multi-Frame Recurrent Adversarial Network for Moving Object Segmentation](https://openaccess.thecvf.com/content/WACV2021/papers/Patil_Multi-Frame_Recurrent_Adversarial_Network_for_Moving_Object_Segmentation_WACV_2021_paper.pdf) (**CVPR-2021**)
 - [2021 - Deep Adversarial Network for Scene Independent Moving Object Segmentation](https://ieeexplore.ieee.org/abstract/document/9353975) (**IEEE Signal Processing Letters**)
@@ -143,6 +142,7 @@ A curated list of background subtraction papers and related applications resourc
 ### 2017 Papers
 
 ## Review/survey Papers
+- [2021 - An Empirical Review of Deep Learning Frameworks for Change Detection: Model Design, Experimental Frameworks, Challenges and Research Needs](https://arxiv.org/abs/2105.01342) (**IEEE Transactions on Intelligent Transportation System**)
 - [2019 - Background Subtraction in Real Applications: Challenges, Current Models and Future Directions](https://arxiv.org/pdf/1901.03577)
 - [2018 - New trend in video foreground detection using deep learning](https://ieeexplore.ieee.org/iel7/8610060/8623819/08623825.pdf)
 - [2014 - Traditional and recent approaches in background modeling for foreground detection: An overview](https://www.sciencedirect.com/science/article/pii/S1574013714000033)
@@ -160,7 +160,7 @@ A curated list of background subtraction papers and related applications resourc
 
 ## Awesome Researchers
 - [Thierry Bouwnmans](https://sites.google.com/site/thierrybouwmans/)
-- [Murari Mandal](https://visionintelligence.github.io/Murari.html)
+- [Murari Mandal](https://murarimandal.github.io/publications.html)
 - [Prashant W. Patil](https://iitrpr.cvpr.in/8/my_blog/)
 - [Sajid Javed](https://sites.google.com/view/sajidjaved/home)
 - 
