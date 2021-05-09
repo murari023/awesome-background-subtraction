@@ -123,6 +123,7 @@ A curated list of background subtraction papers and related applications resourc
 ## Non-Deep Learning based Papers
 [Landmark Papers](https://github.com/murari023/awesome-background-subtraction#landmark-papers-in-background-subtraction), [2018 Papers](https://github.com/murari023/awesome-background-subtraction#2018-papers-1), [2017 Papers](https://github.com/murari023/awesome-background-subtraction#2017-papers-1), [2016 Papers](https://github.com/murari023/awesome-background-subtraction#2016-papers-1), [2015 Papers](https://github.com/murari023/awesome-background-subtraction#2015-papers)
 ### Landmark Papers in Background Subtraction
+ - [2020 - Scene Independency Matters: An Empirical Study of Scene Dependent and Scene Independent Evaluation for CNN-Based Change Detection](https://ieeexplore.ieee.org/document/9238403) (**2020 - IEEE Transactions on Intelligent Transportation Systems**)
 - [2015 - SuBSENSE - A Universal Change Detection Method With Local Adaptive Sensitivity](http://ieeexplore.ieee.org/document/6975239/)
 - [2012 - PBAS - Background Segmentation with Feedback: The Pixel-Based Adaptive Segmenter](http://ieeexplore.ieee.org/document/6238925/)
 - [2011 - ViBe: A Universal Background Subtraction Algorithm for Video Sequences](http://ieeexplore.ieee.org/document/5672785/)
@@ -169,7 +170,7 @@ A curated list of background subtraction papers and related applications resourc
 - [MotionRec](https://github.com/lav-kush/MotionRec)
 - [lrslibrary]( https://github.com/andrewssobral/lrslibrary)
 - [Background Subtraction Website by Thierry BOUWMANS](https://sites.google.com/site/backgroundsubtraction/overview)
-- 
+
 ## Projects
 - [Background subtraction using deep learning method by [**Yiqi Yan**](https://saoyan.github.io/projects/)](https://github.com/SaoYan/bgsCNN)
 
