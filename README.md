@@ -3,10 +3,8 @@ A curated list of background subtraction papers and related applications resourc
 
 ## Upcoming Deadlines for Computer Vision Conferences
 
-- **CIKM** - 19 May/26 May 2021
 - **WACV** - First Submission: 3 June, Second Submission: 11 August
 - **3DV** - 30 July 2021
-- **SIGSPATIAL** - 18 May 2021
   
 ## Contents
  - [Deep Learning based Papers](https://github.com/murari023/awesome-background-subtraction#deep-learning-based-papers)
